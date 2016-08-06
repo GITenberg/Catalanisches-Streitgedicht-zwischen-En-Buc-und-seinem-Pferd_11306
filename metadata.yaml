@@ -1,0 +1,31 @@
+_repo: Catalanisches-Streitgedicht-zwischen-En-Buc-und-seinem-Pferd_11306
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Foerster, Wendelin
+    birthdate: 1844
+    deathdate: 1915
+    gutenberg_agent_id: '3933'
+    url: http://www.gutenberg.org/2009/agents/3933
+    wikipedia: http://de.wikipedia.org/wiki/Wendelin_Foerster
+description: Aus der Zeitschrift für Romanische Philologie, 1877
+gutenberg_bookshelf:
+- DE Lyrik
+- DE Sachbuch
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11306'
+language:
+- ca
+- de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan language -- Texts'
+- !lcc 'PC'
+- !lcsh 'Poetry'
+- GITenberg
+title: Catalanisches Streitgedicht zwischen En Buc und seinem Pferd
+url: http://www.gutenberg.org/ebooks/11306
