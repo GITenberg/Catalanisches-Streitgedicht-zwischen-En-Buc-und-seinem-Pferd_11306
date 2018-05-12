@@ -1,5 +1,8 @@
 _repo: Catalanisches-Streitgedicht-zwischen-En-Buc-und-seinem-Pferd_11306
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Foerster, Wendelin
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3933
     wikipedia: http://de.wikipedia.org/wiki/Wendelin_Foerster
 description: Aus der Zeitschrift für Romanische Philologie, 1877
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11306#Catalanisches-Streitgedicht-zwischen-En-Buc-und-seinem-Pferd
 gutenberg_bookshelf:
 - DE Lyrik
 - DE Sachbuch
